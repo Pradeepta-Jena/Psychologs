@@ -1,4 +1,4 @@
-# robots.txt for 
+# robots.txt for https://github.com/Pradeepta-Jena/Psychologs/edit/main
 
 User-agent: *
 Disallow: /
