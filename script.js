@@ -14,7 +14,7 @@ const timelineData = [
     "id": 2,
     "date": "2023-01-13",
     "title": "Heart Warming Welcome",
-    "description": "BA21 students welcomed the new freshers, with beginning of a new bond.",
+    "description": "BA21 students welcomed the new freshers, with the beginning of a new bond.",
     "imageUrl": "B22/‎13 ‎January ‎2023, ‏‎185828.jpg",
     "aspectRatio": "landscape"
   },
@@ -38,7 +38,7 @@ const timelineData = [
     "id": 6,
     "date": "2023-01-13",
     "title": "Me & the boys",
-    "description": "Also the Freshers of BA22. See that ugly guy in the glasses on the right side? Yeah that's me, your narrator.",
+    "description": "Also, the Freshers of BA22. See that ugly guy in the glasses on the right side? Yeah, that's me, your narrator.",
     "imageUrl": "B22/‎13 ‎January ‎2023, ‏‎220438.JPG",
     "aspectRatio": "square"
   },
@@ -46,7 +46,7 @@ const timelineData = [
     "id": 7,
     "date": "2023-01-13",
     "title": "Meet Mr. Fresher",
-    "description": "He doesn't know yet but he is destined to become the Seminar Secretary in the future.",
+    "description": "He doesn't know yet, but he is destined to become the Seminar Secretary in the future.",
     "imageUrl": "B22/‎13 ‎January ‎2023, ‏‎220506.jpg",
     "aspectRatio": "portrait"
   },
@@ -62,7 +62,7 @@ const timelineData = [
     "id": 10,
     "date": "2023-01-13",
     "title": "One Cake, many to Eat",
-    "description": "Ahh, yes. the last time I ever had a good chocolate cake.",
+    "description": "Ahh, yes. The last time I ever had a good chocolate cake.",
     "imageUrl": "B22/‎13 ‎January ‎2023, ‏‎220458.jpg",
     "aspectRatio": "square"
   },
@@ -86,7 +86,7 @@ const timelineData = [
     "id": 15,
     "date": "2023-05-12",
     "title": "Farewell Party for BA20 students",
-    "description": "Juniors getting ready to give one of the best farewell to their seniors",
+    "description": "Juniors getting ready to give one of the best farewells to their seniors",
     "imageUrl": "B22/12 ‎May ‎2023, 202432.jpg",
     "aspectRatio": "square"
   },
@@ -142,7 +142,7 @@ const timelineData = [
     "id": 18,
     "date": "2023-09-09",
     "title": "Best Department Award",
-    "description": "Days later after the events of teacher's day celebration. The department was awarded for being best of the bests.",
+    "description": "Days later, after the events of the teacher's day celebration. The department was awarded for being the best of the best.",
     "imageUrl": "B23/‎09 ‎September ‎2023, ‏‎182234.jpg",
     "aspectRatio": "portrait"
   },
@@ -158,7 +158,7 @@ const timelineData = [
     "id": 20,
     "date": "2023-09-16",
     "title": "Suicide Prevention Campaign",
-    "description": "A few days later the department acheived a new milestone. A suicide prevention awareness program was successfully conducted in collaboration with SCB Medical College.",
+    "description": "A few days later, the department achieved a new milestone. A suicide prevention awareness program was successfully conducted in collaboration with SCB Medical College.",
     "imageUrl": "B23/‎14 ‎September ‎2023, ‏‎175918.jpg",
     "aspectRatio": "landscape"
   },
@@ -166,7 +166,7 @@ const timelineData = [
     "id": 21,
     "date": "2024-1-31",
     "title": "Fresher's Party for BA23",
-    "description": "With a new year beginning, comes with the celebration of a new batch of students",
+    "description": "With a new year beginning, comes the celebration of a new batch of students",
     "imageUrl": "B23/‎31 ‎January ‎2024, ‏‎invi.png",
     "aspectRatio": "portrait"
   },
@@ -198,7 +198,7 @@ const timelineData = [
     "id": 25,
     "date": "2024-01-31",
     "title": "Meet Mr. Fresher again",
-    "description": "He is also destined to become the Seminar Secretary in the coming future, following the footsteps of the previous Mr. Fresher.",
+    "description": "He is also destined to become the Seminar Secretary in the near future, following the footsteps of the previous Mr. Fresher.",
     "imageUrl": "B23/‎31 ‎January ‎2024, ‏‎193616 (2).jpg",
     "aspectRatio": "portrait"
   },
@@ -206,7 +206,7 @@ const timelineData = [
     "id": 26,
     "date": "2024-01-31",
     "title": "From Universe 969",
-    "description": "A universe where Laxmikanta sir was not a teacher but grew up to be an odia actor, mostly known as 'SuperStar Laxmikanta'. He also trained Rajnikant as his student.",
+    "description": "A universe where Laxmikanta sir was not a teacher but grew up to be an Odia actor, mostly known as 'SuperStar Laxmikanta'. He also trained Rajnikant as his student.",
     "imageUrl": "B23/‎31 ‎January ‎2024, ‏‎211738.jpg",
     "aspectRatio": "portrait"
   },
@@ -238,15 +238,15 @@ const timelineData = [
     "id": 30,
     "date": "2024-07-06",
     "title": "Teachers with their new Graduates",
-    "description": "Soon after the 5 months, BA21 students were ready to start a new journey of their life.",
+    "description": "Soon after the 5 months, BA21 students were ready to start a new journey in their lives.",
     "imageUrl": "B23/‎06 ‎July ‎2024, ‏‎210644.jpg",
     "aspectRatio": "square"
   },
   {
     "id": 31,
     "date": "2024-07-06",
-    "title": "Preety little babies",
-    "description": "That's the only thing came into my mind right now while programming this image holder, I'm being lazy.",
+    "title": "Pretty little babies",
+    "description": "That's the only thing that came into my mind right now while programming this image holder, I'm being lazy.",
     "imageUrl": "B23/‎06 ‎July ‎2024, ‏‎210648.jpg",
     "aspectRatio": "landscape"
   },
@@ -278,7 +278,7 @@ const timelineData = [
     "id": 35,
     "date": "2024-07-06",
     "title": "Mortal Kombat: Student's Edition",
-    "description": "While there was a cake eating competition. On the other hand, the boys were doing their thing.",
+    "description": "While there was a cake-eating competition. On the other hand, the boys were doing their thing.",
     "imageUrl": "B23/‎06 ‎July ‎2024, ‏‎232510.jpg",
     "aspectRatio": "square"
   },
@@ -286,7 +286,7 @@ const timelineData = [
     "id": 36,
     "date": "2024-07-06",
     "title": "Final goodbye to BA21",
-    "description": "Thus, the day came to an end with a heart warming farewell party.",
+    "description": "Thus, the day came to an end with a heart-warming farewell party.",
     "imageUrl": "B23/‎06 ‎July ‎2024, ‏‎210946.jpg",
     "aspectRatio": "landscape"
   },
@@ -302,7 +302,7 @@ const timelineData = [
     "id": 38,
     "date": "2024-09-05",
     "title": "Teacher's Day 2024",
-    "description": "Each year, same month & day. Teachers and students must together stay.",
+    "description": "Each year, same month & day. Teachers and students must stay together.",
     "imageUrl": "B23/‎05 ‎September ‎2024, ‏‎182758.jpg",
     "aspectRatio": "square"
   },
@@ -342,7 +342,7 @@ const timelineData = [
     "id": 43,
     "date": "2024-12-11",
     "title": "Meet Meera ma'am",
-    "description": "The Chief Guest of the Seminar, gave an hour long speech about The Resilient Mind.",
+    "description": "The Chief Guest of the Seminar gave an hour-long speech about The Resilient Mind.",
     "imageUrl": "B24/‎11 ‎December ‎2024, ‏‎204622.jpg",
     "aspectRatio": "portrait"
   },
@@ -382,7 +382,7 @@ const timelineData = [
     "id": 48,
     "date": "2025-04-05",
     "title": "One Last Practical",
-    "description": "Unfortunately, a new year comes with an end of a Batch.",
+    "description": "Unfortunately, a new year comes with the end of a Batch.",
     "imageUrl": "B24/‎05 ‎April ‎2025, ‏‎201658.jpg",
     "aspectRatio": "square"
   },
