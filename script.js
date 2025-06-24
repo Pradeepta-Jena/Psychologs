@@ -270,7 +270,7 @@ const timelineData = [
     "id": 34,
     "date": "2024-07-06",
     "title": "Birthday Crash!",
-    "description": "Oh yes, there was also a student's birthday during that same day. But I don't remember there was a cake eating competition as well, hmm, Fascinating.",
+    "description": "Oh yes, there was also Padmaja's birthday during that same day. But I don't remember there was a cake eating competition as well, hmm, Fascinating.",
     "imageUrl": "B23/‎06 ‎July ‎2024, ‏‎232514.jpg",
     "aspectRatio": "landscape"
   },
